@@ -27,7 +27,7 @@ Clone the Repo
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/file-guardian.git
+git clone https://github.com/kumi125/file-integrity-checker.git
 cd file-guardian
 Install dependencies (standard library only, no pip needed)
 
