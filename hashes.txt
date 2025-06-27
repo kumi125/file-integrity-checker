@@ -1,0 +1,155 @@
+# File Hash Export - 2025-06-27 16:03:45.325583
+
+D:/vs code practice/project#5\file_guardian.py
+SHA-256: 2190ecfb4c137e161c8632c05e8fbfcb52f127eb590f6f458fcc845a30422701
+
+D:/vs code practice/project#5\README.md
+SHA-256: 5ff8b99d75c8f00b0896270dff02b063ab7145e7ff41a4e3c067adf62af274d7
+
+D:/vs code practice/project#5\screenshot.png
+SHA-256: 0bab16feee697931385531dac845f518b99f421eedb2481bdf7472639ebb38b7
+
+D:/vs code practice/project#5\.git\COMMIT_EDITMSG
+SHA-256: ea48807a8970add28cbf8c9010a7820f7319806a6d35aa43543ee58873625768
+
+D:/vs code practice/project#5\.git\config
+SHA-256: 3c444c06ccbe47fefe71f1ae3bbdfbe9b3e822c60c237c563ad38c87dc039d00
+
+D:/vs code practice/project#5\.git\description
+SHA-256: 85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee
+
+D:/vs code practice/project#5\.git\FETCH_HEAD
+SHA-256: 574cd88f9cb48556f43eb26a04f23470ee07aab938f00b52c697a292eb9e31f9
+
+D:/vs code practice/project#5\.git\HEAD
+SHA-256: f6f2b945f6c411b02ba3da9c7ace88dcf71b6af65ba2e0d89aa82900042b5a10
+
+D:/vs code practice/project#5\.git\index
+SHA-256: dd2ba52429454ae419def8eb500ed6704c0f76fd720f309921ced2de68b5d0e0
+
+D:/vs code practice/project#5\.git\ORIG_HEAD
+SHA-256: 18f8f365d4a932dd3a1b206e7a1442fdca9b5bb2d14731a765177a690d636fba
+
+D:/vs code practice/project#5\.git\hooks\applypatch-msg.sample
+SHA-256: 0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7
+
+D:/vs code practice/project#5\.git\hooks\commit-msg.sample
+SHA-256: 1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437
+
+D:/vs code practice/project#5\.git\hooks\fsmonitor-watchman.sample
+SHA-256: e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0
+
+D:/vs code practice/project#5\.git\hooks\post-update.sample
+SHA-256: 81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5
+
+D:/vs code practice/project#5\.git\hooks\pre-applypatch.sample
+SHA-256: e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475
+
+D:/vs code practice/project#5\.git\hooks\pre-commit.sample
+SHA-256: 57185b7b9f05239d7ab52db045f5b89eb31348d7b2177eab214f5eb872e1971b
+
+D:/vs code practice/project#5\.git\hooks\pre-merge-commit.sample
+SHA-256: d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53
+
+D:/vs code practice/project#5\.git\hooks\pre-push.sample
+SHA-256: ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a
+
+D:/vs code practice/project#5\.git\hooks\pre-rebase.sample
+SHA-256: 4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3
+
+D:/vs code practice/project#5\.git\hooks\pre-receive.sample
+SHA-256: a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989
+
+D:/vs code practice/project#5\.git\hooks\prepare-commit-msg.sample
+SHA-256: e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619
+
+D:/vs code practice/project#5\.git\hooks\push-to-checkout.sample
+SHA-256: a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f
+
+D:/vs code practice/project#5\.git\hooks\sendemail-validate.sample
+SHA-256: 44ebfc923dc5466bc009602f0ecf067b9c65459abfe8868ddc49b78e6ced7a92
+
+D:/vs code practice/project#5\.git\hooks\update.sample
+SHA-256: 8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106
+
+D:/vs code practice/project#5\.git\info\exclude
+SHA-256: 6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1
+
+D:/vs code practice/project#5\.git\logs\HEAD
+SHA-256: 8c9eb767a9769a5e1c7b0c9ec1995b4f73f33b1a76d1e8a1f687546e91c18557
+
+D:/vs code practice/project#5\.git\logs\refs\heads\master
+SHA-256: 8c9eb767a9769a5e1c7b0c9ec1995b4f73f33b1a76d1e8a1f687546e91c18557
+
+D:/vs code practice/project#5\.git\logs\refs\remotes\origin\HEAD
+SHA-256: 25ba80a790723ec0eaa1b10ec5e31fe1e874ac95aac0c7d1a505f58f7b73c033
+
+D:/vs code practice/project#5\.git\logs\refs\remotes\origin\main
+SHA-256: 0b2ce5dd67e02a66e69dcad57292231d1c2d46b9a24221d9e267be39c809928e
+
+D:/vs code practice/project#5\.git\logs\refs\remotes\origin\master
+SHA-256: ebc57e455b493be727b378e9599867f772597f63fb0b24ba0a981cbeced0df8d
+
+D:/vs code practice/project#5\.git\objects\12\30af94361776b9e8478177d06614c4bfb9bfde
+SHA-256: 15d3dd976a5d09ad4bf453890e9922ac7eb9d00c5912f76aadcde036e910346b
+
+D:/vs code practice/project#5\.git\objects\21\0a345b0d61894e0007ec90d033b9bffb5e6bd0
+SHA-256: d0694e3c8f80cfb6d7fd1b442bf38b1ef60645c2d809b460c212c06d80307083
+
+D:/vs code practice/project#5\.git\objects\43\630ab4b115cb407f100276e2704ba4611316b2
+SHA-256: 023e82275d064d6963ef024ecfe18e90921f1d56d99b4c1ce95ba68154c79e67
+
+D:/vs code practice/project#5\.git\objects\47\2a0406a11f3717bf6b97327f4ebee5430ab86b
+SHA-256: a319de09ce1084764eeb036fcce0de7f8388c7f4e6460ec53417155c49351c3c
+
+D:/vs code practice/project#5\.git\objects\4f\7dbe42ffae81f0db19e7290252c6f2494fc67b
+SHA-256: 0951857de5af75c7562886495223e3d0d92f37574facfb97c4363b14e307dd26
+
+D:/vs code practice/project#5\.git\objects\62\fd1c011f3ed35f393ae00f10e1b726244e56aa
+SHA-256: 9695adaae62efef740ffa0a1e328e745aa249c4c043a5a95c18288770a5c2f03
+
+D:/vs code practice/project#5\.git\objects\74\12eb40adb6feb13587ffdddaa7a5cc2b108291
+SHA-256: 3345aa8babf9acc353b4944bc2deb8cb69b0a0730f8fdced9ee656a265259907
+
+D:/vs code practice/project#5\.git\objects\74\5c645e80a69178f5a550e119e7660ab0f2daf2
+SHA-256: 3b9497f188d2e9c835bd690eaeef176f27916bea25299319903a38fe37557b41
+
+D:/vs code practice/project#5\.git\objects\7b\004e51045ae62398e7e48ebb556ab5c9a7d319
+SHA-256: 57c503998820f6e2d63469f3856bcf3b3250f2c3ae7758a2f096fd75a0239b1d
+
+D:/vs code practice/project#5\.git\objects\89\4829a11e2ac3bbf9734f60ccc07451843495bd
+SHA-256: 1b6498af0a60fdf301acb957accdd063d887a1a279e4cc1f351039ac9be1194e
+
+D:/vs code practice/project#5\.git\objects\96\049e4c02149bc2f61b549518336f0d5dc5df59
+SHA-256: 16fde95eb94e27119baf12f467f1c657799bf29bddcbc731642c03ee66c38296
+
+D:/vs code practice/project#5\.git\objects\9a\4816b448e02e749de3e62a91124b0e891d152f
+SHA-256: 12f094e72e98e3d2621099fef4ebc9ef55d188076a8c1352d8144a6958afe52c
+
+D:/vs code practice/project#5\.git\objects\b4\bb4983a34f4121ea7d179c73d63f1cf800accb
+SHA-256: f486ccae0428b797329141b72e19c571cfd2521c08ae51b8a6db2fca26bf9e32
+
+D:/vs code practice/project#5\.git\objects\cd\840fff184ef88c980846e6836ef2dd63906501
+SHA-256: 7da6715bebad264372587c0a07840209281fd773547cbe535dde8bb63fe2be15
+
+D:/vs code practice/project#5\.git\objects\ce\a4fdfcdd7a84e0cb71f0fac65468e37fbd7d2c
+SHA-256: 86c443ac33653ae9f60b70e2b4330780bc5c5ea7126a7b0e3dcacca75696d79e
+
+D:/vs code practice/project#5\.git\objects\d2\68fdd9aa20d19137da2d745aeebf7a15d3f280
+SHA-256: ee820d7735a62b07362d569dacd4b743887b1e092eb92b77f3913313e11920a4
+
+D:/vs code practice/project#5\.git\objects\e7\bfefbd479452faba2d81d52a62ec8da9ea5609
+SHA-256: adb80bd175c704ef929c8e5c530518ed63b6c7d440a0e71beee359d3c0c3f06d
+
+D:/vs code practice/project#5\.git\refs\heads\master
+SHA-256: 9eb2523e5920019f7092c32600929dad70b07ee8750721c983bfe0821436b57f
+
+D:/vs code practice/project#5\.git\refs\remotes\origin\HEAD
+SHA-256: 2bb6a24aa0fc6c484100f5d51a29bbad841cd2c755f5d93faa204e5dbb4eb2b4
+
+D:/vs code practice/project#5\.git\refs\remotes\origin\main
+SHA-256: 97934023a36d7007d01e0b6a771fda3c4a9b6501831b00841bec180eb5d2a4e6
+
+D:/vs code practice/project#5\.git\refs\remotes\origin\master
+SHA-256: 9eb2523e5920019f7092c32600929dad70b07ee8750721c983bfe0821436b57f
+
