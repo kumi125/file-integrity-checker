@@ -38,6 +38,10 @@ Copy
 Edit
 python file_guardian.py
 
+**## 📸 Screenshot**
+
+![GUI Screenshot](screenshot.png)
+
 
 **🚨 Features**
 📁 Select any folder to monitor
