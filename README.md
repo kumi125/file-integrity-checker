@@ -24,18 +24,12 @@ GUI-based for ease of use (built with Tkinter)
 
 Clone the Repo
 
-bash
-Copy
-Edit
 git clone https://github.com/kumi125/file-integrity-checker.git
 cd file-guardian
 Install dependencies (standard library only, no pip needed)
 
 Run the app
 
-bash
-Copy
-Edit
 python file_guardian.py
 
 **## 📸 Screenshot**
@@ -57,9 +51,7 @@ python file_guardian.py
 🔄 Re-scan and compare feature (coming next!)
 
 **📂 Folder Structure**
-bash
-Copy
-Edit
+
 file-guardian/
 ├── file_guardian.py       # Main app
 ├── README.md              # You're here!
@@ -67,5 +59,5 @@ file-guardian/
 └── .gitignore             # Python ignored files
 📜 License
 MIT License — feel free to use, modify, and share.
-Created with ❤️ by [KUMAIL HUSSAIN]
+Created by [KUMAIL HUSSAIN]
 
