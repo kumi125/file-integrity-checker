@@ -50,13 +50,6 @@ python file_guardian.py
 
 🔄 Re-scan and compare feature (coming next!)
 
-**📂 Folder Structure**
-
-file-guardian/
-├── file_guardian.py       # Main app
-├── README.md              # You're here!
-├── screenshot.png         # GUI preview (optional)
-└── .gitignore             # Python ignored files
 📜 License
 MIT License — feel free to use, modify, and share.
 Created by [KUMAIL HUSSAIN]
