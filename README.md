@@ -1,4 +1,4 @@
-🛡️ File Guardian — Advanced File Integrity Checker
+**🛡️ File Guardian — Advanced File Integrity Checker**
 
 A professional cybersecurity tool built in Python, designed to detect unauthorized file modifications, deletions, and suspicious additions using cryptographic hashing and digital signatures.
 
