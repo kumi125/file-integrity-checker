@@ -1,50 +1,44 @@
-\*\*🛡️ File Guardian -- File Integrity Checker\*\* A GUI-based file
-integrity checker built with Python. It helps detect file tampering,
-deletion, and suspicious additions in monitored folders using SHA256
-hashing.
+🛡️ File Guardian — Advanced File Integrity Checker
 
-\*\*💡 What It Does\*\* Scans all files in a selected folder
+A professional cybersecurity tool built in Python, designed to detect unauthorized file modifications, deletions, and suspicious additions using cryptographic hashing and digital signatures.
 
-Calculates SHA256 hashes for integrity
+It’s built for penetration testers, blue teams, and cybersecurity learners who want to understand file integrity monitoring like a real-world FIM/IDS system.
 
-\*\*Flags any files that are:\*\*
+💡 What It Does
 
-✅ Modified
+🧩 Scans and signs all files in a monitored directory using SHA-256
 
-❌ Deleted
+🔏 Digitally signs the baseline for trusted verification
 
-🆕 Newly added
+🕵️ Detects and reports:
 
-\*\*Helps detect tampering, malware, or accidental changes\*\*
+✅ Modified files
 
-GUI-based for ease of use (built with Tkinter)
+❌ Deleted files
 
-\*\*🔧 How to Run\*\* ⚠️ Requires Python 3.x
+🆕 Newly added files
 
-Clone the Repo
+🔐 Verifies cryptographic signature before monitoring begins
 
-bash Copy Edit git clone
-https://github.com/kumi125/file-integrity-checker.git cd file-guardian
-Install dependencies (standard library only, no pip needed)
+👁️ Live Watch Mode – continuously monitors your folder in real-time
 
-Run the app
+🌀 Daemon Mode – runs silently in background without blocking terminal
 
-bash Copy Edit python file_guardian.py
+⚙️ Tech Features
 
-\*\*🚨 Features\*\* 📁 Select any folder to monitor
+Built in Python 3
 
-🧠 SHA256 hashing of all files
+Uses cryptography library for signing & verification
 
-🕵️ Detect modified, deleted, or new files
+Uses watchdog for real-time folder monitoring
 
-🪪 Simple and clean dark-themed GUI
+Cross-platform (Linux / Windows / macOS)
 
-📤 Option to export report (coming soon)
+Lightweight – no heavy dependencies
 
-🔄 Re-scan and compare feature (coming next!)
-
-\*\*📂 Folder Structure\*\* bash Copy Edit file-guardian/ ├──
-file_guardian.py \# Main app ├── README.md \# You\'re here! ├──
-screenshot.png \# GUI preview (optional) └── .gitignore \# Python
-ignored files 📜 License MIT License --- feel free to use, modify, and
-share. Created with ❤️ by \[KUMAIL HUSSAIN\]
+🧠 Modules
+File	Purpose
+generate_baseline.py	Scans directory and generates baseline.json
+sign_baseline.py	Creates digital signature for baseline
+verify_baseline.py	Verifies signature integrity
+watcher.py	Monitors folder changes (supports daemon mode)
